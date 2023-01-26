@@ -1,0 +1,67 @@
+*{
+    font-family: Andale Mono, monospace;
+    background: rgb(15,12,54);
+    background: linear-gradient(90deg, rgba(15,12,54,1) 15%, rgba(191,37,58,1) 50%, rgba(254,154,6,1) 100%);   
+    color: #fff;
+    font-size: 23px;
+}
+
+#json{
+    margin-top: 15px;
+    margin-left: 6%;
+}
+
+img{
+    float: left;
+}
+
+#div11{
+    text-align: center;
+    margin-top: 50px;
+}
+
+option{
+    background-color: #000;
+}
+
+li{
+    width: 90%;
+    height: 200px;
+    font-size: 20px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid rgb(187, 117, 25);
+  border-radius: 5px;
+}
+
+li:hover{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+ol{
+	list-style-type: lower-alpha;
+    text-align: center;
+}
+
+select{
+    border: 2px solid yellow;
+    border-radius: 6px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    margin-left: 10px;
+}
+
+#x{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
